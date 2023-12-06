@@ -1,0 +1,22 @@
+/* .box{
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+} */
+.hidden {
+  display: none;
+}
+body{
+ background-color: #304352;
+  
+ 
+}
+.card{
+  background-image: linear-gradient(to right, #d7d2cc 0%, #304352 100%)
+}
+h1{
+  color:white;
+  background-color: black;
+}
+.card-body{
+  color:white;
+}
